@@ -1,13 +1,7 @@
 <resources>
     <string name="app_name">Mi App Clima</string>
-
-    <!-- Requerido por el nav_graph -->
     <string name="first_fragment_label">Clima</string>
-
-    <!-- Requerido por menu_main.xml -->
     <string name="action_settings">Configuración</string>
-
-    <!-- Nuestros strings de la app -->
     <string name="hint_ciudad">Ingresá una ciudad</string>
     <string name="boton_buscar">Buscar clima</string>
 </resources>
